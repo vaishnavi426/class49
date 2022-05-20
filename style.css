@@ -1,0 +1,21 @@
+body{
+    background-color: bisque;
+}
+h1{
+    color: #3e74a3;
+    font: 200;
+}
+img{
+    border: solid;
+    border-color: black;
+}
+.Menu{
+    background-color: darkcyan;
+    border: solid;
+    border-color: darkgray;
+}
+.item{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
